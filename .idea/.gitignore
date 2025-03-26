@@ -1,3 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# Ignore all IntelliJ/JetBrains settings
+.idea/
+*.iml
+modules.xml
+vcs.xml
